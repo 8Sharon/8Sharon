@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with expertise in 
 
 ## 🔗 Connect With Me
 - LinkedIn: [LinkedIn: Sharon Kamau](https://www.linkedin.com/in/sharon-kamau-a1a0042bb)
-- Email: [Email: njerisharon](njerisharon611@gmail.com)
+- Email: [Email: njerisharon611@gmail.com](njerisharon611@gmail.com)
 
 ## 🌱 Current Focus
 - Learning more about Deep Learning and Neural Networks.
