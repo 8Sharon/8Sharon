@@ -1,4 +1,4 @@
-# Hi there, I'm Sharon Kmau 👋
+# Hi there, I'm Sharon Kamau 👋
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist with expertise in data analysis, machine learning, and problem-solving. My goal is to use data to drive insights and make informed decisions. I enjoy learning new technologies and applying them to solve real-world problems.
 
