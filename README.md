@@ -74,6 +74,18 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a love fo
 
 ---
 
+### 📦 Big Data Technologies
+
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Flink](https://img.shields.io/badge/Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E34A6F?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
 ## 🌱 Current Focus
 - 📚 Deepening my knowledge in **Deep Learning** and **Neural Networks**
 - 🔧 Building **end-to-end machine learning pipelines**
