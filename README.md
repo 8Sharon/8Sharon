@@ -98,6 +98,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a love fo
 ---
 
 ## 🔗 Connect With Me
-- 💼 [LinkedIn: Sharon Kamau](https://www.linkedin.com/in/sharon-kamau-a1a0042bb)
-- 📧 [Email: njerisharon611@gmail.com](mailto:njerisharon611@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-kamau-a1a0042bb)
+
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njerisharon611@gmail.com)
 
