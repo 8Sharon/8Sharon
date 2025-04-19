@@ -1,14 +1,15 @@
 # 👋 Hi there, I'm Sharon Kamau
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a love for turning raw data into actionable insights. I enjoy solving real-world problems using data, machine learning, and artificial intelligence. I'm always curious, constantly learning, and excited about building smart systems.
+Welcome to my GitHub profile! I'm a passionate **Data Enthusiast** with a deep love for transforming raw data into meaningful, actionable insights. I thrive on solving real-world challenges through data-driven solutions, machine learning, and artificial intelligence.
+I'm also proficient in **Big Data technologies**, actively working on building **scalable systems** and designing **robust data pipelines** for efficient data processing and analysis. Whether it's cleaning messy datasets or deploying predictive models, I enjoy every step of the data science journey.
+I'm a continuous learner, always exploring the latest innovations in the data world and applying them to create smarter, more impactful systems.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently studying at **Murang'a University of Technology**
-- 💻 Specializing in **Data Science**, **Machine Learning**, and **Artificial Intelligence**
-- 🔍 Passionate about **data exploration**, **analytics**, and **predictive modeling**
-- 🛠 Experienced with tools such as Python, SQL, and machine learning libraries
+- 💻 Specializing in **Data Science**, **Machine Learning**, **Big Data** and **Artificial Intelligence**
+- 🛠 Experienced with tools such as Python, SQL, big data technologies and machine learning libraries.
 - 🌱 Lifelong learner – always diving into new technologies
 
 ---
