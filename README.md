@@ -16,19 +16,39 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a love fo
 ## 🧠 Tech Stack
 
 ### 🧮 Programming Languages & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![VBScript](https://img.shields.io/badge/VBScript-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & AI Tools
+
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC2227?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFBB00?style=for-the-badge)
+
+![SVM](https://img.shields.io/badge/SVM-6DA6F1?style=for-the-badge&logo=appveyor&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![AdaBoost](https://img.shields.io/badge/AdaBoost-F8C45C?style=for-the-badge&logo=apache&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient--Boosting-4CBBF3?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random--Forest-2F9C9A?style=for-the-badge)
+![Decision Tree](https://img.shields.io/badge/Decision--Tree-F0A34C?style=for-the-badge)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+
 
 ### 📊 Data Visualization & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
