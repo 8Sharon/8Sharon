@@ -8,8 +8,8 @@ I'm a continuous learner, always exploring the latest innovations in the data wo
 
 ## 🚀 About Me
 - 🎓 Currently studying at **Murang'a University of Technology**
-- 💻 Specializing in **Data Science**, **Machine Learning**, **Big Data** and **Artificial Intelligence**
-- 🛠 Experienced with tools such as Python, SQL, big data technologies and machine learning libraries.
+- 💻 Specializing in **Data Science**, **Machine Learning**, and **AI automations**
+- 🛠 Experienced with tools such as Python, SQL, big data technologies, n8n for workflows and machine learning libraries.
 - 🌱 Lifelong learner – always diving into new technologies
 
 ---
@@ -97,7 +97,7 @@ I'm a continuous learner, always exploring the latest innovations in the data wo
 ---
 
 ## 🌱 Current Focus
-- 📚 Deepening my knowledge in **Deep Learning** and **Neural Networks**
+- 📚 Deepening my knowledge in **Deep Learning** and **AI automations workflows development**
 - 🔧 Building **end-to-end machine learning pipelines**
 - 🧪 Exploring **AI for social good** and real-world impact
 
