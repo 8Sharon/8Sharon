@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sharon Kamau
+# 👋 Hi there, I'm Sharon Njeri
 
 I'm a **Software Engineer** with hands-on experience at the **Kenya Space Agency**, specializing in **Artificial Intelligence**, **Satellite Systems**, **Earth Observation**, and **Geospatial Technologies**. 
 
