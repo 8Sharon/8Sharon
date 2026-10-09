@@ -1,110 +1,68 @@
 # 👋 Hi there, I'm Sharon Kamau
 
-Welcome to my GitHub profile! I'm a passionate **Data Enthusiast** with a deep love for transforming raw data into meaningful, actionable insights. I thrive on solving real-world challenges through data-driven solutions, machine learning, and artificial intelligence.
-I'm also proficient in **Big Data technologies**, actively working on building **scalable systems** and designing **robust data pipelines** for efficient data processing and analysis. Whether it's cleaning messy datasets or deploying predictive models, I enjoy every step of the data science journey.
-I'm a continuous learner, always exploring the latest innovations in the data world and applying them to create smarter, more impactful systems.
+I'm a **Software Engineer** with hands-on experience at the **Kenya Space Agency**, specializing in **Artificial Intelligence**, **Satellite Systems**, **Earth Observation**, and **Geospatial Technologies**. 
+
+I focus on building dynamic astrodynamics search tools, GIS dashboards, and machine learning models leveraging satellite imagery and cloud architectures. Passionate about merging software engineering with space technology to create intelligent remote sensing solutions.
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently studying at **Murang'a University of Technology**
-- 💻 Specializing in **Data Science**, **Machine Learning**, and **AI automations**
-- 🛠 Experienced with tools such as Python, SQL, big data technologies, n8n for workflows and machine learning libraries.
-- 🌱 Lifelong learner – always diving into new technologies
+- 🛰️ **Hands-on Experience at Kenya Space Agency:** Developed AI-powered satellite search capabilities (**DIRA**), optimized Docker containerized deployments, and built Earth Observation data platforms (**DataHub**).
+- 🎓 **Education:** Pursuing a B.Sc. in Information Technology at **Murang'a University of Technology**.
+- 💻 **Core Focus:** AI/ML, Satellite Monitoring Systems, Geospatial Data Analysis, and Cloud Deployment.
+- 📜 **Certifications:** Huawei Certified Cloud Developer Associate in AI (HCCDA-AI), Cisco Certified in Data Analysis & Data Science.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🧮 Programming Languages & Tools
+### 🚀 Space, Earth Observation & Geospatial
+![GIS](https://img.shields.io/badge/GIS_&_Geospatial-008080?style=for-the-badge&logo=qgis&logoColor=white)
+![Satellite Monitoring](https://img.shields.io/badge/Satellite_Tracking-2F4F4F?style=for-the-badge)
+![Earth Observation](https://img.shields.io/badge/Earth_Observation-2E8B57?style=for-the-badge)
 
+### 🤖 AI, Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![VBScript](https://img.shields.io/badge/VBScript-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### 🤖 Machine Learning & AI Tools
-
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![XGBoost](https://img.shields.io/badge/XGBoost-EC2227?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFBB00?style=for-the-badge)
-
-![SVM](https://img.shields.io/badge/SVM-6DA6F1?style=for-the-badge&logo=appveyor&logoColor=white)
-![KNN](https://img.shields.io/badge/KNN-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![AdaBoost](https://img.shields.io/badge/AdaBoost-F8C45C?style=for-the-badge&logo=apache&logoColor=white)
-![Gradient Boosting](https://img.shields.io/badge/Gradient--Boosting-4CBBF3?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random--Forest-2F9C9A?style=for-the-badge)
-![Decision Tree](https://img.shields.io/badge/Decision--Tree-F0A34C?style=for-the-badge)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-
-
-### 📊 Data Visualization & Analysis Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-36A2EB?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🛢️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
----
-
-### 📦 Big Data Technologies
-
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Flink](https://img.shields.io/badge/Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E34A6F?style=for-the-badge&logo=databricks&logoColor=white)
+### ☁️ Cloud, DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
+### 📊 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-## 🌱 Current Focus
-- 📚 Deepening my knowledge in **Deep Learning** and **AI automations workflows development**
-- 🔧 Building **end-to-end machine learning pipelines**
-- 🧪 Exploring **AI for social good** and real-world impact
+## 🛠 Featured Space & Data Projects
+
+- **🛸 DIRA (Dynamic Integrated Resources for Astrodynamics):** AI-powered search tool enabling dynamic astrodynamics resource discovery, orbital analysis, and satellite tracking within AngaWatch.
+- **📡 DataHub Platform:** Centralized platform engineered for storing, organizing, and retrieving satellite imagery datasets for research and Earth observation applications.
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-kamau-a1a0042bb)
-
-[![Email](https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=0A66C2)](mailto:njerisharon611@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharon_Kamau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-kamau-a1a0042bb)
+[![Email](https://img.shields.io/badge/Email-njerisharon611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njerisharon611@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sharon8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharon8)
