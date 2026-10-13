@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sharon Njeri
 
-I'm a **Software Engineer** with hands-on experience at the **Kenya Space Agency**, specializing in **Artificial Intelligence**, **Satellite Systems**, **Earth Observation**, and **Geospatial Technologies**. 
+I'm a **Software Engineer** with hands-on experience at the **Kenya Space Agency**, specializing in **Artificial Intelligence**, **Satellite Systems**, **Web developing and design**. 
 
 I focus on building dynamic astrodynamics search tools, GIS dashboards, and machine learning models leveraging satellite imagery and cloud architectures. Passionate about merging software engineering with space technology to create intelligent remote sensing solutions.
 
