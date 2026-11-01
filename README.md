@@ -2,16 +2,15 @@
 
 ### 💻 Software Engineer | Backend Development | Cloud & DevOps | AI Engineering
 
-I'm a Software Engineer passionate about building reliable, scalable, and maintainable software applications. I have hands-on experience in application development, API integration, containerization, and collaborative software engineering workflows.
+I'm a Software Engineer with hands on experience in building reliable, scalable, and maintainable software applications. I have hands-on skills in application development, API integration, containerization, and collaborative software engineering workflows.
 
 I enjoy solving real-world problems through clean code, efficient system design, and practical engineering solutions.
 
-- 🔭 **Currently focused on:** Backend Development, Cloud Computing, and AI Engineering.
-- 💻 **Core interests:** Software Architecture, REST APIs, DevOps, and Automation.
-- 🚀 **Experience:** Software Engineering Intern at Kenya Space Agency.
-- 🎓 **Education:** B.Sc. in Information Technology at Murang'a University of Technology.
-- ☁️ **Certification:** Huawei Certified Cloud Developer Associate in AI (HCCDA-AI).
-- 🤝 **Open to:** Software Engineering opportunities, collaborations, and open-source projects.
+## 🚀 About Me
+- 💼 **Software Engineer Intern at Kenya Space Agency:** Developed features, integrated APIs, and optimized Docker Compose setups for containerized development and deployment.
+- 🎓 **Education:**  B.Sc. in Information Technology at **Murang'a University of Technology**.
+- 💻 **Core Focus:** Backend Development, REST API Integration, Containerization (Docker, Kubernetes), and DevOps Workflow.
+- 📜 **Certifications:** Huawei Certified Cloud Developer Associate in AI (HCCDA-AI).
 
 ---
 
@@ -69,55 +68,10 @@ I enjoy solving real-world problems through clean code, efficient system design,
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Featured Engineering Projects
 
-### 🚀 Software Engineer Intern — Kenya Space Agency
-**May 2026 – August 2026**
-
-- Developed an AI-powered satellite-search feature for the AngaWatch platform.
-- Customized Docker Compose configurations to improve consistency across development and deployment environments.
-- Collaborated with developers using Git, GitHub, pull requests, and code review workflows.
-- Supported REST API integration and communication between application components.
-- Improved interface usability and software maintainability.
-- Worked with satellite imagery and machine learning workflows supporting Earth observation applications.
-
----
-
-## 🚀 Featured Projects
-
-### 🛰️ DIRA — Dynamic Integrated Resources for Astrodynamics
-
-Contributed to a platform supporting satellite tracking, orbital analysis, and astrodynamics resource discovery.
-
-**Key Contributions:**
-- Developed an AI-powered satellite-search feature.
-- Worked on localized satellite-pass tracking and estimated arrival-time calculations.
-- Customized Docker Compose configurations for containerized development.
-- Supported software module integration and improved access to satellite information.
-
-**Technologies:** Python, Docker, Docker Compose, API Integration, AI
-
-### 📡 DataHub — Satellite Imagery Data Platform
-
-Contributed to a platform designed to organize and manage satellite imagery datasets.
-
-**Key Contributions:**
-- Optimized user interface components for improved usability.
-- Supported dataset organization and retrieval.
-- Contributed to platform integration and technical documentation.
-- Helped improve application maintainability.
-
-**Focus:** Application Development, UI Optimization, Data Management, Software Integration
-
----
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharon8&show_icons=true&theme=tokyonight&hide_border=true" alt="Sharon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon8&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+- **🛸 DIRA - Dynamic Integrated Resources for Astrodynamics:** Developed application features, customized Docker Compose configurations to streamline local development, and integrated software modules.
+- **📡 DataHub - Platform:** Contributed to building and organizing platform components, optimizing user interface elements, and supporting system maintainability and integration.
 
 ---
 
@@ -129,18 +83,12 @@ I'm focused on developing software that is reliable, scalable, secure, and capab
 
 ---
 
-## 🤝 Connect With Me
+## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sharon-kamau-a1a0042bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:njerisharon611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Sharon8">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharon_Kamau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-kamau-a1a0042bb)
+
+[![Email](https://img.shields.io/badge/Email-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njerisharon611@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sharon8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharon8)
 
 **Building thoughtfully. Engineering practically. Learning continuously.** 🚀
