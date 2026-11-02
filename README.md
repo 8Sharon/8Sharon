@@ -8,7 +8,7 @@ I enjoy solving real-world problems through clean code, efficient system design,
 
 ## 🚀 About Me
 - 💼 **Software Engineer Intern at Kenya Space Agency:** Developed features, integrated APIs, and optimized Docker Compose setups for containerized development and deployment.
-- 🎓 **Education:**  B.Sc. in Information Technology at **Murang'a University of Technology**.
+- 🎓 **Education:**  B.Sc. in Informatics at **Murang'a University of Technology**.
 - 💻 **Core Focus:** Backend Development, REST API Integration, Containerization (Docker, Kubernetes), and DevOps Workflow.
 - 📜 **Certifications:** Huawei Certified Cloud Developer Associate in AI (HCCDA-AI).
 
